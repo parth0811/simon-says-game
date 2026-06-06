@@ -86,10 +86,9 @@ The screen flashes red and the game resets.
 
 ## 📸 Screenshots
 
-
 ![Game Start](./ss/simon.jpg)
 
----
+----
 
 ## ⚙️ Installation
 
