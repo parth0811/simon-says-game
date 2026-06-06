@@ -86,15 +86,7 @@ The screen flashes red and the game resets.
 
 ## 📸 Screenshots
 
-Add screenshots inside a folder named:
 
-```bash
-screenshots/
-```
-
-Example:
-
-```markdown
 ![Game Start](./ss/simon.jpg)
 
 ---
